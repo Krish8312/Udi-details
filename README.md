@@ -1,2 +1,0 @@
-# Udi-details
-Krish tool
